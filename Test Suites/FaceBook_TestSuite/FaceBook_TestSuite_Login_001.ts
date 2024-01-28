@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>FaceBook_TestSuite_Login_001</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>45b43173-fbb5-4f16-b93d-18691db28624</testSuiteGuid>
+   <testCaseLink>
+      <guid>373aace5-e5f1-44c9-9afd-657c7f5aa761</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_FaceBook_Login_001</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>1874e40c-2aac-415c-bc3f-57893fbec8a0</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TestData/FaceBook_Login_TestData</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>1874e40c-2aac-415c-bc3f-57893fbec8a0</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>1dd044db-884d-4ee8-9493-3d779ec5f71e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>1874e40c-2aac-415c-bc3f-57893fbec8a0</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>f28be983-f8e8-49fe-87e8-571c547912fd</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

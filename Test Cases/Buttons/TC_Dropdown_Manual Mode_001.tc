@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Dropdown_Manual Mode_001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9061045a-23e1-439e-a1f6-6019ff3d5e3f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>49052579-c34d-4645-a6ad-794e2750b7ae</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>342a8e50-02fa-4f69-8496-1f59a392cef6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8b8a8e82-4666-4486-903f-1d34a478c2df</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'10'</defaultValue>
+      <description></description>
+      <id>49052579-c34d-4645-a6ad-794e2750b7ae</id>
+      <masked>false</masked>
+      <name>day</name>
+   </variable>
+   <variable>
+      <defaultValue>'3'</defaultValue>
+      <description></description>
+      <id>342a8e50-02fa-4f69-8496-1f59a392cef6</id>
+      <masked>false</masked>
+      <name>month</name>
+   </variable>
+   <variable>
+      <defaultValue>'2'</defaultValue>
+      <description></description>
+      <id>8b8a8e82-4666-4486-903f-1d34a478c2df</id>
+      <masked>false</masked>
+      <name>year</name>
+   </variable>
+</TestCaseEntity>

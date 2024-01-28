@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "FD9978E4952DCF6793D01F0EDC7E9C56",
+  "keywordClasses": [
+    {
+      "name": "keypackage.custom",
+      "keywordMethods": [
+        {
+          "name": "print",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
