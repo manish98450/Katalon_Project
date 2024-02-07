@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .gradle
 
 bin
@@ -14,6 +15,9 @@ build
 .classpath
 
 .project
+=======
+
+>>>>>>> e8f65c4756adba1d14f5f4516d3d74e5183a5ee5
 /bin/
 /Libs/
 /.settings/

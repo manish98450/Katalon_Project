@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
    <description></description>
-   <name>Software Auomation Testing with Katalon</name>
+   <name>SI-GuidedProject-704659-1705119664</name>
    <tag></tag>
-   <UUID>ecedaab1-2e19-49db-8e3c-06ff6346c8de</UUID>
+   <UUID>c27058c2-00bc-48e5-87ca-e84a826fe32e</UUID>
    <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>C:\Users\Mp908\git\SI-GuidedProject-704659-1705119664\Software Auomation Testing with Katalon.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
@@ -27,5 +26,5 @@
       </systemFolderList>
    </sourceContent>
    <timeStampInProperties>false</timeStampInProperties>
-   <type>WEBUI</type>
+   <type>GENERIC</type>
 </Project>
